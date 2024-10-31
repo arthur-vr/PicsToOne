@@ -8,6 +8,7 @@ This is a blender add-on that generates a single image from multiple images in a
 
 # Demo (x.com)
 
+https://x.com/arthur484_/status/1851913158296003043
 
 # Download
 
