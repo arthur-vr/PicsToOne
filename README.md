@@ -15,6 +15,7 @@ https://x.com/arthur484_/status/1851913158296003043
 [Releases](https://github.com/arthur-vr/PicsToOne/releases)
 
 # How to use
+![f3 search](./images/demo_f3_search.png)
 
 English:
 - Press f3 and search for picsToOne.
